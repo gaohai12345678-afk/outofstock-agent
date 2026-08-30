@@ -53,14 +53,6 @@ flowchart TD
     H --> L[订单完成]
     I --> L
     J --> M[人工客服接管]
-
-    style D fill:#e8f4fd,stroke:#1a73e8
-    style F fill:#e8f4fd,stroke:#1a73e8
-    style B fill:#e6f4ea,stroke:#34a853
-    style C fill:#e6f4ea,stroke:#34a853
-    style G fill:#e6f4ea,stroke:#34a853
-    style K fill:#fef7e0,stroke:#f9ab00
-    style J fill:#fce8e6,stroke:#ea4335
 ```
 
 **核心设计原则：确定性归代码，语义归模型。**
